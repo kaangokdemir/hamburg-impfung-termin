@@ -1,0 +1,12 @@
+{
+  "name": "hamburg-impfung-termin",
+  "version": "1.0.0",
+  "description": "Get an impfung termin",
+  "main": "index.js",
+  "author": "Kaan Gökdemir",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "play-sound": "^1.1.3"
+  }
+}
